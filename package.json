@@ -1,0 +1,31 @@
+{
+  "name": "vue-jimei",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@element-plus/icons-vue": "^2.0.10",
+    "axios": "^1.2.2",
+    "echarts": "^5.4.1",
+    "element-plus": "^2.2.27",
+    "md5": "^2.3.0",
+    "mockjs": "^1.1.0",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.57.1",
+    "vue": "^3.2.45",
+    "vue-buffer": "^0.0.1",
+    "vue-router": "^4.1.6",
+    "vuex": "^4.0.2",
+    "vuex-persistedstate": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "unplugin-auto-import": "^0.12.1",
+    "unplugin-vue-components": "^0.22.12",
+    "vite": "^4.0.0"
+  }
+}
